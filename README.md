@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+i have deployed this netflix clone using firebase you can also click on this link to check
+
+https://netflix-clone-5a035.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
